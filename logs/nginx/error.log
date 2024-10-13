@@ -1,0 +1,3 @@
+2024/07/10 05:42:06 [alert] 11152#7660: OpenEvent("ngx_master_10828") failed (2: The system cannot find the file specified)
+2024/07/10 11:21:06 [alert] 1700#2036: OpenEvent("ngx_master_5596") failed (2: The system cannot find the file specified)
+2024/10/13 10:04:31 [error] 3112#7884: *3933 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host) while reading response header from upstream, client: 127.0.0.1, server: , request: "POST /wp-admin/admin-ajax.php HTTP/1.0", upstream: "fastcgi://127.0.0.1:10002", host: "borgar.local", referrer: "http://borgar.local/wp-admin/plugins.php?plugin_status=all&paged=1&s"
